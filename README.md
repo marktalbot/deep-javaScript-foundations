@@ -1,1 +1,3 @@
-# deep-javaScript-foundations
+# Deep JavaScript Foundations
+
+Join Kyle Simpson -- author of the popular “You Don’t Know JavaScript” book series -- as he reveals the deep foundations of JavaScript. You'll learn about object wrappers, coercion, scope, closure, types, prototype system, ES6 features, == vs === and more. Understand deeply how the JavaScript engine looks for variables in function and block scope (var, let and const). Learn which ES6 features can help or hurt your coding and which new features should be used with caution. Also why coercion is one of the overlooked keys to using JavaScript more effectively. With this course, you'll see how gaining a deeper understanding of JavaScript will make you a better communicator and programmer! NOTE: Please pardon our dust. The course material has been re-arranged. The numbering of the challenges is a bit of out of order for the time being.
